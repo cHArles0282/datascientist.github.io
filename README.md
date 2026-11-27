@@ -5,7 +5,7 @@ Telecom and fiber blog, built with Jekyll (Minimal Mistakes) and deployed to Git
 ## How automatic publishing works
 
 - `_queue/` holds the unpublished posts, named `NNN-slug.md`. The lowest number goes out next.
-- `.github/workflows/publish-and-deploy.yml` runs every **Monday and Thursday at 09:00 IST**. It moves the next
+- `.github/workflows/publish-and-deploy.yml` runs every **Tuesday and Thursday at about 08:40 IST**. It moves the next
   queued post into `_posts/` with today's date, commits it, then builds and deploys the site.
 - Every push to `master` also rebuilds the site, so edits go live without publishing a new post.
 - To publish one right now: GitHub → Actions → "Publish next post and deploy site" → Run workflow.
