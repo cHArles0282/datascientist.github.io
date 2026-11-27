@@ -1,0 +1,86 @@
+{
+  "post": 13,
+  "group": 2,
+  "day_label": "Aerial & poles",
+  "cover_image": "assets/images/posts/013-adss-or-lashed-fiber-cable-choosing-the--photo.jpg",
+  "cover_alt": null,
+  "slides": [
+    {
+      "type": "cover",
+      "title": "ADSS or lashed cable?",
+      "sub": "Choosing the right aerial fiber design"
+    },
+    {
+      "type": "stake",
+      "title": "Same pole line, two very different cables.",
+      "body": "One hangs from a steel strand. The other holds itself up."
+    },
+    {
+      "type": "idea",
+      "title": "ADSS has no metal",
+      "body": "All-dielectric self-supporting. Aramid yarn carries the span tension, so no bonding or grounding is needed."
+    },
+    {
+      "type": "idea",
+      "title": "It can sit near power",
+      "body": "With a track-resistant jacket, ADSS can go in the supply space, close to energised conductors."
+    },
+    {
+      "type": "diagram",
+      "title": "Inside each cable",
+      "image": "assets/images/posts/013-adss-or-lashed-fiber-cable-choosing-the--diagram.jpg"
+    },
+    {
+      "type": "idea",
+      "title": "Lashed rewards growth",
+      "body": "Steel strand carries the load. Adding a cable later is easy: overlash it onto the existing bundle."
+    },
+    {
+      "type": "table",
+      "title": "Side by side",
+      "head": [
+        "",
+        "ADSS",
+        "Lashed"
+      ],
+      "rows": [
+        [
+          "Strength",
+          "Aramid yarn",
+          "Steel strand"
+        ],
+        [
+          "Metal",
+          "None",
+          "Bond and ground"
+        ],
+        [
+          "Add cables",
+          "New hardware",
+          "Overlash"
+        ],
+        [
+          "Long spans",
+          "Yes",
+          "Limited"
+        ]
+      ]
+    },
+    {
+      "type": "recap",
+      "title": "Pick by the route",
+      "items": [
+        "No strand yet? ADSS",
+        "Long spans? ADSS",
+        "Power space? ADSS",
+        "Route will keep growing? Lashed"
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Save this for your next aerial design",
+      "body": "Full article: link in bio"
+    }
+  ],
+  "caption": "From the sidewalk, ADSS and lashed fiber look almost the same. On the design sheet they are very different.\n\nADSS carries its own weight on aramid yarn and has no metal to ground. Lashed cable hangs on a steel strand and makes adding cables easy. Swipe for the side-by-side.\n\nDay 13 of 100 Days of Fiber. Full article: link in bio.\n\nSave this for your next aerial design.\n\n#fiberoptics #outsideplant #aerialfiber"
+}

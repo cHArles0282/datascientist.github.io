@@ -1,0 +1,55 @@
+{
+  "post": 4,
+  "group": 1,
+  "day_label": "Underground",
+  "cover_image": null,
+  "cover_alt": null,
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Which pipe carries your fiber?",
+      "sub": "PVC, HDPE and innerduct compared"
+    },
+    {
+      "type": "stake",
+      "title": "The pathway outlives the cable by decades.",
+      "body": "Choose the wrong conduit and every future cable pays for it."
+    },
+    {
+      "type": "idea",
+      "title": "Rigid PVC: straight and stiff",
+      "body": "Ten or twenty foot sticks, solvent cemented. Made for open trenches and concrete-encased duct banks. Too stiff to drill."
+    },
+    {
+      "type": "idea",
+      "title": "HDPE: flexible, on reels",
+      "body": "Long continuous lengths that bend. The pipe behind directional drills, ploughs and micro-trenchers. Lower SDR, thicker wall."
+    },
+    {
+      "type": "idea",
+      "title": "Innerduct splits big pipes",
+      "body": "Three 1.25 inch innerducts in a 4 inch duct gives three pathways. New cables never rub against old ones."
+    },
+    {
+      "type": "idea",
+      "title": "India's standard duct",
+      "body": "Permanently lubricated HDPE in 40/33 mm and 50/42 mm. Most cable is blown into it, not pulled."
+    },
+    {
+      "type": "recap",
+      "title": "Quick pick",
+      "items": [
+        "Trenching straight? Rigid PVC",
+        "Drilling or ploughing? HDPE",
+        "Big pipe, one cable? Innerduct",
+        "Bridges and impact zones? Steel"
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Save this for your next route design",
+      "body": "Full article: link in bio"
+    }
+  ],
+  "caption": "Grey sticks in the trench, black pipe on a reel. Both are conduit, and they are not interchangeable.\n\nPVC suits straight trenches and encased duct banks, HDPE goes behind the drill and the plough, and innerduct turns one big pipe into several pathways. Swipe for when to use each.\n\nDay 4 of 100 Days of Fiber. Full article: link in bio.\n\nSave this for your next route design.\n\n#fiberoptics #outsideplant #underground"
+}

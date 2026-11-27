@@ -1,0 +1,65 @@
+{
+  "post": 10,
+  "group": 1,
+  "day_label": "Underground",
+  "cover_image": "assets/images/posts/010-cable-pulling-basics-tension-lubricant-p-photo.jpg",
+  "cover_alt": null,
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Pull fiber without breaking it",
+      "sub": "Tension, lubricant, pull points and swivels"
+    },
+    {
+      "type": "stake",
+      "title": "Pulling damage hides until the test results.",
+      "body": "It shows up as an attenuation step, or a broken fiber months later."
+    },
+    {
+      "type": "idea",
+      "title": "Know the tension limit",
+      "body": "Outside plant loose-tube cable is commonly rated 600 lbf, about 2,700 N. Pull on the strength member, never the fibers."
+    },
+    {
+      "type": "idea",
+      "title": "Bends multiply tension",
+      "body": "Friction adds up, but bends multiply it. Put the reel at the end nearest the bends, while the cable is still slack."
+    },
+    {
+      "type": "diagram",
+      "title": "A pull, end to end",
+      "image": "assets/images/posts/010-cable-pulling-basics-tension-lubricant-p-diagram.jpg"
+    },
+    {
+      "type": "idea",
+      "title": "Lubricate all the way",
+      "body": "Water-based gel, applied continuously at the feed end. Never grease, oil or dish soap."
+    },
+    {
+      "type": "idea",
+      "title": "Swivels stop the twist",
+      "body": "A swivel keeps tape twist out of the cable. A breakaway swivel's shear pin lets go before the cable's limit."
+    },
+    {
+      "type": "idea",
+      "title": "Too long? Figure-eight it",
+      "body": "Pull to a midpoint handhole, lay the cable out in a figure-eight so it can't twist, then feed it onward."
+    },
+    {
+      "type": "recap",
+      "title": "A good pull is",
+      "items": [
+        "Slow",
+        "Lubricated",
+        "Measured",
+        "Boring"
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Save this for your next pull plan",
+      "body": "Full article: link in bio"
+    }
+  ],
+  "caption": "The pull is when a fiber cable is most likely to get damaged, and the damage rarely shows on the day.\n\nTension limits, lubricant, reel placement and breakaway swivels are what keep the test results clean. Swipe for the setup, step by step.\n\nDay 10 of 100 Days of Fiber. Full article: link in bio.\n\nSave this for your next pull plan.\n\n#fiberoptics #outsideplant #underground"
+}

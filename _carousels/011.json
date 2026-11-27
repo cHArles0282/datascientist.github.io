@@ -1,0 +1,91 @@
+{
+  "post": 11,
+  "group": 2,
+  "day_label": "Aerial & poles",
+  "cover_image": "assets/images/posts/011-utility-pole-basics-every-fiber-designer-photo.jpg",
+  "cover_alt": null,
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Read a pole before you design",
+      "sub": "Class, height, material and owner"
+    },
+    {
+      "type": "stake",
+      "title": "A pole is a structure, not a coat hook.",
+      "body": "Class, height, material and owner each change what you can attach."
+    },
+    {
+      "type": "table",
+      "title": "US wood pole classes",
+      "head": [
+        "Class",
+        "Min. top",
+        "Typical use"
+      ],
+      "rows": [
+        [
+          "1",
+          "27 in",
+          "Heavy junctions"
+        ],
+        [
+          "3",
+          "23 in",
+          "With transformers"
+        ],
+        [
+          "4",
+          "21 in",
+          "Common distribution"
+        ],
+        [
+          "5",
+          "19 in",
+          "Comms-only lines"
+        ]
+      ]
+    },
+    {
+      "type": "idea",
+      "title": "Lower class, stronger pole",
+      "body": "Under ANSI O5.1, class is set by minimum circumference. Most telecom work meets Class 4 or Class 5 poles."
+    },
+    {
+      "type": "idea",
+      "title": "Not all of it is above ground",
+      "body": "Setting depth is about 10% of length plus 2 feet. A 40 ft pole has roughly 34 ft above grade."
+    },
+    {
+      "type": "diagram",
+      "title": "Zones on a utility pole",
+      "image": "assets/images/posts/011-utility-pole-basics-every-fiber-designer-diagram.jpg"
+    },
+    {
+      "type": "idea",
+      "title": "Material depends on where",
+      "body": "US: treated pine, fir, cedar. India: pre-stressed concrete or steel. Australia: moving from hardwood to steel and concrete."
+    },
+    {
+      "type": "idea",
+      "title": "Find the owner first",
+      "body": "The owner sets the rules, runs the application and charges annual rent. Check the metal tag at eye level."
+    },
+    {
+      "type": "recap",
+      "title": "Survey notes, every pole",
+      "items": [
+        "Class",
+        "Height",
+        "Material",
+        "Owner and pole number"
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Save this for your next aerial survey",
+      "body": "Full article: link in bio"
+    }
+  ],
+  "caption": "Before designing a single span of aerial fiber, there are four things to know about the pole.\n\nIts class, its height (and how much of it is underground), what it is made of, and who owns it. Swipe for the class table and the setting-depth rule of thumb.\n\nDay 11 of 100 Days of Fiber. Full article: link in bio.\n\nSave this for your next aerial survey.\n\n#fiberoptics #outsideplant #aerialfiber"
+}

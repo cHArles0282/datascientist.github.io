@@ -1,0 +1,63 @@
+{
+  "post": 12,
+  "day_label": "Aerial & poles",
+  "cover_image": "assets/images/posts/012-how-strand-and-lashing-support-aerial-fi-photo.jpg",
+  "cover_alt": "A lineman in a bucket truck lashing fiber cable to a steel strand between two wooden utility poles.",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Why aerial fiber doesn't fall",
+      "sub": "Strand and lashing, explained in 9 slides"
+    },
+    {
+      "type": "stake",
+      "title": "Fiber can't hold its own weight.",
+      "body": "The cable has very little tensile strength. A steel wire above it does the real work."
+    },
+    {
+      "type": "idea",
+      "title": "The strand carries the load",
+      "body": "Galvanized steel, usually 7 wires twisted together, tensioned pole to pole to a designed sag. US sizes: 6.6M and 10M."
+    },
+    {
+      "type": "idea",
+      "title": "Lashing ties cable to strand",
+      "body": "A machine rides the strand and spirals thin stainless wire around both. Heavier bundles get two wires: double lashing."
+    },
+    {
+      "type": "diagram",
+      "title": "Every part at the pole",
+      "image": "assets/images/posts/012-how-strand-and-lashing-support-aerial-fi-diagram.jpg"
+    },
+    {
+      "type": "idea",
+      "title": "Overlashing: the big shortcut",
+      "body": "Route already has lashed copper or coax? Lash the new fiber onto that bundle. No new strand, often a simpler permit."
+    },
+    {
+      "type": "idea",
+      "title": "Not every country does this",
+      "body": "Strand and lash is the US default. India leans on figure-8 cable with a built-in steel messenger. Australia uses both."
+    },
+    {
+      "type": "recap",
+      "title": "A lashed span in 7 steps",
+      "items": [
+        "Place hardware and strand",
+        "Tension to sag, dead-end",
+        "Bond and ground",
+        "Pull the fiber cable",
+        "Lash it to the strand",
+        "Clamp and dress at each pole",
+        "Inspect before splicing"
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Save this for your next pole-line review",
+      "body": "Full article: link in bio"
+    }
+  ],
+  "caption": "Fiber cable can't hold up its own weight. So what keeps it in the air?\n\nA steel messenger strand takes the load, and a thin stainless lashing wire spirals the cable onto it. Swipe for the parts at the pole, the 7-step build, and why overlashing often means a simpler permit.\n\nDay 12 of 100 Days of Fiber. Full article: link in bio.\n\nSave this for your next pole-line review.\n\n#fiberoptics #outsideplant #telecom",
+  "group": 2
+}

@@ -1,0 +1,61 @@
+{
+  "post": 5,
+  "group": 1,
+  "day_label": "Underground",
+  "cover_image": null,
+  "cover_alt": null,
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Blow fiber in, don't pull it",
+      "sub": "Microduct and air-blown fiber, explained"
+    },
+    {
+      "type": "stake",
+      "title": "No winch. No rope. Just compressed air.",
+      "body": "A crew can move cable several hundred metres in about twenty minutes."
+    },
+    {
+      "type": "idea",
+      "title": "What a microduct is",
+      "body": "A small HDPE tube, about 5 to 16 mm across. Sizes read outside over inside: 7/5.5, 10/8, 12/10, 14/10 mm."
+    },
+    {
+      "type": "idea",
+      "title": "How blowing works",
+      "body": "Drive wheels push the cable while air flows past it. Drag along the whole length carries it forward."
+    },
+    {
+      "type": "idea",
+      "title": "Why it goes so far",
+      "body": "A rope pull puts all the force at the eye and multiplies it at bends. Blowing spreads it, so 1 km+ is possible."
+    },
+    {
+      "type": "idea",
+      "title": "Civils once, cable many times",
+      "body": "Lay the duct bundle once. Blow cables only when customers sign up. Upgrade by blowing one out and another in."
+    },
+    {
+      "type": "idea",
+      "title": "The duct must be perfect",
+      "body": "Clean, dry, continuous and capped from day one. Pressure test and send a sponge through before every blow."
+    },
+    {
+      "type": "recap",
+      "title": "Microduct in 5 lines",
+      "items": [
+        "Small HDPE tubes in bundles",
+        "Air drag carries the cable",
+        "Long blows, fewer pits",
+        "Pay for civils once",
+        "Keep every tube sealed"
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Save this for your next FTTH plan",
+      "body": "Full article: link in bio"
+    }
+  ],
+  "caption": "Once you have seen fiber blown into a duct, rope pulling looks slow.\n\nMicroducts are small HDPE tubes, and compressed air carries a microcable through them for hundreds of metres. The bigger win is money: dig once, add cable as customers sign up. Swipe for how it works and what breaks it.\n\nDay 5 of 100 Days of Fiber. Full article: link in bio.\n\nSave this for your next FTTH plan.\n\n#fiberoptics #outsideplant #underground"
+}

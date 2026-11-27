@@ -1,0 +1,86 @@
+{
+  "post": 9,
+  "group": 1,
+  "day_label": "Underground",
+  "cover_image": null,
+  "cover_alt": null,
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Glass can't be found. Wire can.",
+      "sub": "Tracer wire, warning tape and markers"
+    },
+    {
+      "type": "stake",
+      "title": "No metal, no signal, no locate.",
+      "body": "All-dielectric fiber is invisible to a locator. Something metallic has to go in with it."
+    },
+    {
+      "type": "idea",
+      "title": "Tracer wire rides along",
+      "body": "Insulated copper or copper-clad steel, orange for communications, laid in the trench or pulled in with the duct."
+    },
+    {
+      "type": "idea",
+      "title": "Continuous and reachable",
+      "body": "Waterproof connectors at every splice. Bring the wire up at handholes, pedestals and test stations."
+    },
+    {
+      "type": "idea",
+      "title": "Warning tape is for diggers",
+      "body": "Orange ribbon about a foot above the duct. Detectable tape adds a foil core that a locator can trace."
+    },
+    {
+      "type": "table",
+      "title": "APWA colour code",
+      "head": [
+        "Colour",
+        "Means"
+      ],
+      "rows": [
+        [
+          "Red",
+          "Electric power"
+        ],
+        [
+          "Yellow",
+          "Gas, oil, steam"
+        ],
+        [
+          "Orange",
+          "Communications"
+        ],
+        [
+          "Blue",
+          "Drinking water"
+        ],
+        [
+          "Green",
+          "Sewer and drains"
+        ]
+      ]
+    },
+    {
+      "type": "idea",
+      "title": "Then people must ask",
+      "body": "US: call 811. Australia: Before You Dig Australia. India has no national one-call yet, so marker posts matter."
+    },
+    {
+      "type": "recap",
+      "title": "Make buried fiber findable",
+      "items": [
+        "Tracer wire beside the duct",
+        "Access at handholes and test stations",
+        "Tape a foot above the duct",
+        "Marker balls at bends and splices",
+        "Call before you dig"
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Save this for your next underground design",
+      "body": "Full article: link in bio"
+    }
+  ],
+  "caption": "Fiber is glass and plastic. A locator can't see it at all.\n\nThat is why buried fiber gets a tracer wire, warning tape and marker balls, and why the colour orange means communications. Swipe for how each piece works and what fails first.\n\nDay 9 of 100 Days of Fiber. Full article: link in bio.\n\nSave this for your next underground design.\n\n#fiberoptics #outsideplant #underground"
+}

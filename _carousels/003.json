@@ -1,0 +1,86 @@
+{
+  "post": 3,
+  "group": 1,
+  "day_label": "Underground",
+  "cover_image": null,
+  "cover_alt": null,
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Where fiber climbs the pole",
+      "sub": "Pole risers, U-guards and building risers"
+    },
+    {
+      "type": "stake",
+      "title": "The first 8 feet up a pole is where cables get hit.",
+      "body": "Mowers, vehicles and curious hands all reach that far."
+    },
+    {
+      "type": "idea",
+      "title": "Why cables climb poles",
+      "body": "Underground feeders meet aerial side streets. The cable leaves the duct through a long sweep and rises to the comms space."
+    },
+    {
+      "type": "idea",
+      "title": "The code wants protection",
+      "body": "In the US, the NESC requires mechanical protection where cable on a pole could be damaged, typically to about 8 feet."
+    },
+    {
+      "type": "table",
+      "title": "U-guard vs riser conduit",
+      "head": [
+        "",
+        "U-guard",
+        "Riser conduit"
+      ],
+      "rows": [
+        [
+          "Protection",
+          "Three sides",
+          "Fully enclosed"
+        ],
+        [
+          "Add cable later",
+          "Easy, lay in",
+          "Pull through"
+        ],
+        [
+          "Vehicle impact",
+          "Fair",
+          "Good"
+        ],
+        [
+          "Water",
+          "Gets in",
+          "Capped"
+        ]
+      ]
+    },
+    {
+      "type": "idea",
+      "title": "Size conduit for tomorrow",
+      "body": "Adding cable to riser conduit means pulling through the pipe. Size it for future cables from day one."
+    },
+    {
+      "type": "idea",
+      "title": "Building risers have rules",
+      "body": "US code wants riser-rated OFNR cable, or plenum OFNP in air-handling space. Fire-stop every floor penetration."
+    },
+    {
+      "type": "recap",
+      "title": "Riser checklist",
+      "items": [
+        "Protect the lowest 8 feet",
+        "U-guard: quick, open to water",
+        "Conduit: sealed, plan spare space",
+        "Fire-stop every floor"
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Save this for your next pole survey",
+      "body": "Full article: link in bio"
+    }
+  ],
+  "caption": "A few feet of hardware at the base of a pole protects thousands of feet of cable either side of it.\n\nThat is the riser: where fiber leaves the ground and climbs to the comms space. Swipe for U-guard vs riser conduit, and the building riser rules people forget.\n\nDay 3 of 100 Days of Fiber. Full article: link in bio.\n\nSave this for your next pole survey.\n\n#fiberoptics #outsideplant #underground"
+}

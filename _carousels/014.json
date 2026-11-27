@@ -1,0 +1,57 @@
+{
+  "post": 14,
+  "group": 2,
+  "day_label": "Aerial & poles",
+  "cover_image": "assets/images/posts/014-pole-attachments-and-joint-use-explained-photo.jpg",
+  "cover_alt": null,
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Six owners, one wooden pole",
+      "sub": "Pole attachments and joint use, explained"
+    },
+    {
+      "type": "stake",
+      "title": "The agreement usually sets your schedule.",
+      "body": "Not the cable and not the crew. The pole attachment process."
+    },
+    {
+      "type": "idea",
+      "title": "Owners and attachers",
+      "body": "The electric utility or telco owns the pole. Everyone else attaches under an agreement with rules and annual rent."
+    },
+    {
+      "type": "idea",
+      "title": "Who regulates it in the US",
+      "body": "Section 224 gives the FCC authority, but many states regulate themselves. Co-op and municipal poles are exempt."
+    },
+    {
+      "type": "diagram",
+      "title": "The attachment workflow",
+      "image": "assets/images/posts/014-pole-attachments-and-joint-use-explained-diagram.jpg"
+    },
+    {
+      "type": "idea",
+      "title": "Costly mistakes",
+      "body": "Attaching to poles never applied for. Cables at the wrong height. Old cable left on the pole and still billed."
+    },
+    {
+      "type": "recap",
+      "title": "Attachment in 6 steps",
+      "items": [
+        "Apply for every pole",
+        "Owner surveys each pole",
+        "Make-ready estimate",
+        "Pay, make-ready gets done",
+        "Install at the approved height",
+        "Post-construction inspection"
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Save this for your next attachment application",
+      "body": "Full article: link in bio"
+    }
+  ],
+  "caption": "Count the attachments on a busy pole and you can find five or six organisations sharing one piece of timber.\n\nThat only works because of joint use: pole owners, attachers, agreements and annual rent. Swipe for how the attachment process runs and the mistakes that cost the most.\n\nDay 14 of 100 Days of Fiber. Full article: link in bio.\n\nSave this for your next attachment application.\n\n#fiberoptics #outsideplant #aerialfiber"
+}
