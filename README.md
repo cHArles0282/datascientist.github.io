@@ -5,7 +5,7 @@ Telecom and fiber blog, built with Jekyll (Minimal Mistakes) and deployed to Git
 ## How automatic publishing works
 
 - `_queue/` holds the unpublished posts, named `NNN-slug.md`. The lowest number goes out next.
-- `.github/workflows/publish-and-deploy.yml` runs every **Tuesday and Thursday at about 08:40 IST**. It moves the next
+- `.github/workflows/publish-and-deploy.yml` runs **every day at about 08:40 IST** (100 posts = 100 days). It moves the next
   queued post into `_posts/` with today's date, commits it, then builds and deploys the site.
 - Every push to `master` also rebuilds the site, so edits go live without publishing a new post.
 - To publish one right now: GitHub → Actions → "Publish next post and deploy site" → Run workflow.
@@ -21,3 +21,9 @@ Telecom and fiber blog, built with Jekyll (Minimal Mistakes) and deployed to Git
 ## One-time setup
 
 GitHub → Settings → Pages → Build and deployment → Source: **GitHub Actions**.
+
+## Instagram carousels (@muyarchi_edu)
+
+- `_carousels/NNN.json` holds the slide copy and caption for post NNN (cover, stake, one idea per slide, recap, CTA).
+- `node scripts/render_carousel.js 012` renders 1080x1350 JPEG slides plus `caption.txt` into `_site_carousels/012/`.
+- Automatic posting to Instagram is not wired up yet: it needs a Business/Creator account linked to a Facebook Page.
