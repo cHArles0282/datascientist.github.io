@@ -1,0 +1,60 @@
+{
+  "post": 6,
+  "group": 1,
+  "day_label": "Underground",
+  "cover_image": "assets/images/posts/006-pedestals-and-cabinets-above-ground-fibe-photo.jpg",
+  "cover_alt": null,
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Knee-high post or fridge box?",
+      "sub": "Fiber pedestals and cabinets explained"
+    },
+    {
+      "type": "stake",
+      "title": "Most day-to-day fiber work happens above ground.",
+      "body": "Where you place the enclosure affects every service call for twenty years."
+    },
+    {
+      "type": "idea",
+      "title": "Pedestals: small and cheap",
+      "body": "Knee-high enclosures holding a splice closure, a multiport terminal or drop slack. The workhorse of residential builds."
+    },
+    {
+      "type": "idea",
+      "title": "Their enemy: mowers",
+      "body": "Trimmers, snow ploughs and reversing cars find pedestals. Place them at property lines, clear of driveways and car doors."
+    },
+    {
+      "type": "idea",
+      "title": "Cabinets hold the hub",
+      "body": "In a PON, the cabinet houses the fiber distribution hub: feeder fibers, 1:32 splitters and patch panels."
+    },
+    {
+      "type": "idea",
+      "title": "Every cabinet needs",
+      "body": "A ground rod, a lock, ventilation that keeps water out, and a plinth above flood and snow levels."
+    },
+    {
+      "type": "idea",
+      "title": "Other countries, other boxes",
+      "body": "India uses pole or wall-mounted FAT boxes. Australia puts hubs in footpath cabinets and terminals in pits."
+    },
+    {
+      "type": "recap",
+      "title": "Placement rules",
+      "items": [
+        "A technician can park nearby",
+        "The door opens away from traffic",
+        "Clear of mowers and driveways",
+        "Above flood and snow lines"
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Save this for your next FTTH layout",
+      "body": "Full article: link in bio"
+    }
+  ],
+  "caption": "The green post on the lawn and the grey box on the corner belong to the same fiber network.\n\nPedestals hold splices and drop terminals. Cabinets hold the distribution hub with its splitters and patch panels. Swipe for what goes where, and the placement rules that save years of service calls.\n\nDay 6 of 100 Days of Fiber. Full article: link in bio.\n\nSave this for your next FTTH layout.\n\n#fiberoptics #outsideplant #underground"
+}

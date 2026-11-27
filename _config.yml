@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Fiber Field Notes" # placeholder until the final name is chosen
+title                    : "Clever Engineer"
 title_separator          : "-"
 name                     : "Charles"
 description              : "Practical notes on fiber networks, outside plant and telecom project delivery."

@@ -1,0 +1,82 @@
+{
+  "post": 8,
+  "group": 1,
+  "day_label": "Underground",
+  "cover_image": null,
+  "cover_alt": null,
+  "slides": [
+    {
+      "type": "cover",
+      "title": "How deep should fiber go?",
+      "sub": "Depth of cover, and why it matters"
+    },
+    {
+      "type": "stake",
+      "title": "Ten inches down, a lawn trencher found the fiber.",
+      "body": "The street lost internet for the afternoon. It was too shallow to survive ordinary life."
+    },
+    {
+      "type": "idea",
+      "title": "Depth does four jobs",
+      "body": "Keeps cable below casual digging, spreads vehicle loads, avoids frost heave, and leaves room for crossing utilities."
+    },
+    {
+      "type": "table",
+      "title": "Commonly seen US minimums",
+      "head": [
+        "Location",
+        "Cover"
+      ],
+      "rows": [
+        [
+          "Lawn drop",
+          "12 in"
+        ],
+        [
+          "Sidewalk or grass strip",
+          "24 in"
+        ],
+        [
+          "Under a road",
+          "36 in"
+        ],
+        [
+          "Highway or rail crossing",
+          "48 in or more"
+        ]
+      ],
+      "note": "The local owner's or permit's rule always governs."
+    },
+    {
+      "type": "idea",
+      "title": "Roads keep getting rebuilt",
+      "body": "Road owners mill, resurface and widen. A crossing that was fine at 24 inches becomes a hazard after reconstruction."
+    },
+    {
+      "type": "idea",
+      "title": "India digs much deeper",
+      "body": "Highway right-of-way rules often specify around 1.65 m, because widening and drainage works are frequent."
+    },
+    {
+      "type": "idea",
+      "title": "Can't reach depth? Say so",
+      "body": "Rock or another utility in the way? Agree a protection method, like concrete encasement, and document it."
+    },
+    {
+      "type": "recap",
+      "title": "Depth checklist",
+      "items": [
+        "Measure grade to top of duct",
+        "Record depth at every crossing",
+        "Warning tape about a foot above",
+        "Never go shallow quietly"
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Save this for your next underground spec",
+      "body": "Full article: link in bio"
+    }
+  ],
+  "caption": "Every extra inch of depth costs digging time, so it gets argued over on every job.\n\nBut depth is what keeps fiber away from sprinkler trenches, fence posts and road rebuilds. Swipe for the common minimums, why India digs to 1.65 m on highways, and what to do when you hit rock.\n\nDay 8 of 100 Days of Fiber. Full article: link in bio.\n\nSave this for your next underground spec.\n\n#fiberoptics #outsideplant #underground"
+}

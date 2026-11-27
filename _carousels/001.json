@@ -1,0 +1,86 @@
+{
+  "post": 1,
+  "group": 1,
+  "day_label": "Underground",
+  "cover_image": null,
+  "cover_alt": null,
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Not every sidewalk lid is equal",
+      "sub": "Handhole materials, sizes and load tiers"
+    },
+    {
+      "type": "stake",
+      "title": "Pick the wrong handhole and a truck cracks it.",
+      "body": "Material, size and load tier all follow from what could drive over it."
+    },
+    {
+      "type": "idea",
+      "title": "Three jobs in one box",
+      "body": "Holds splice closures where cables branch, stores slack loops for re-entry, and breaks long duct runs into pull points."
+    },
+    {
+      "type": "idea",
+      "title": "Four materials you'll meet",
+      "body": "Polymer concrete for sidewalks. Fiberglass for corrosive soil. HDPE for lawns only. Precast concrete under roadways."
+    },
+    {
+      "type": "table",
+      "title": "SCTE 77 load tiers",
+      "head": [
+        "Tier",
+        "Design load",
+        "Where"
+      ],
+      "rows": [
+        [
+          "Tier 5",
+          "5,000 lb",
+          "Lawns, foot traffic"
+        ],
+        [
+          "Tier 8",
+          "8,000 lb",
+          "Sidewalks"
+        ],
+        [
+          "Tier 15",
+          "15,000 lb",
+          "Occasional vehicles"
+        ],
+        [
+          "Tier 22",
+          "22,500 lb",
+          "Driveways, parking"
+        ]
+      ]
+    },
+    {
+      "type": "idea",
+      "title": "Road lanes need H-20",
+      "body": "SCTE 77 tiers are for off-roadway spots. In a travelled lane, use precast concrete with an H-20 rated frame and cover."
+    },
+    {
+      "type": "idea",
+      "title": "Same box, other names",
+      "body": "India often builds RCC or brick chambers on site. Australia calls it a pit, in numbered sizes."
+    },
+    {
+      "type": "recap",
+      "title": "Choosing a handhole",
+      "items": [
+        "Material matches the handling",
+        "Size fits the slack loops",
+        "Tier fits the heaviest vehicle",
+        "Travelled lane? H-20 precast"
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Save this for your next underground design",
+      "body": "Full article: link in bio"
+    }
+  ],
+  "caption": "That rectangular lid in the sidewalk has a load rating, and picking the wrong one gets expensive.\n\nHandholes come in polymer concrete, fiberglass, HDPE and precast concrete, and ANSI/SCTE 77 tiers run from 5,000 lb for lawns to 22,500 lb for driveways. Swipe for the full table and where H-20 takes over.\n\nDay 1 of 100 Days of Fiber. Full article: link in bio.\n\nSave this for your next underground design.\n\n#fiberoptics #outsideplant #underground"
+}

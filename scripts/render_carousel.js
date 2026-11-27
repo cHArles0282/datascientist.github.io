@@ -42,6 +42,14 @@ p{font-size:52px;line-height:1.35;color:rgba(255,255,255,.78);margin-top:48px}
 .cover p{margin-top:32px;font-size:46px}
 .swipe{color:var(--ac);font-weight:600;font-size:40px;margin-top:40px}
 .stake h1{font-size:104px;margin-top:220px}
+.cover.plain{padding:150px 120px 0}
+.cover.plain .txt{bottom:260px}
+.cover.plain .big{position:absolute;right:-60px;top:60px;font-size:520px;font-weight:800;line-height:1;color:var(--ac);opacity:.14}
+table{width:100%;border-collapse:collapse;margin-top:56px;font-size:40px}
+th{text-align:left;color:var(--ac);font-weight:600;padding:0 16px 22px 0;border-bottom:3px solid var(--ac)}
+td{padding:24px 16px 24px 0;border-bottom:2px solid rgba(255,255,255,.12);line-height:1.25;vertical-align:top}
+td:first-child{font-weight:600}
+.note{font-size:34px;color:rgba(255,255,255,.55);margin-top:36px}
 .diag .card{margin-top:56px;background:#fff;border-radius:24px;padding:24px;height:720px;display:flex;align-items:center}
 .diag .card img{width:100%;max-height:100%;object-fit:contain}
 ol{list-style:none;margin-top:56px;counter-reset:n}
@@ -56,12 +64,18 @@ function slideHtml(s, i, n, data) {
   const tag = `<div class="tag">Day ${data.post} · ${esc(data.day_label)}</div>`;
   switch (s.type) {
     case 'cover':
+      if (!data.cover_image)
+        return `<div class="s cover plain"><div class="big">${data.post}</div>
+        <div class="txt">${tag}<h1>${esc(s.title)}</h1><p>${esc(s.sub || '')}</p><div class="swipe">Swipe →</div></div>${foot}</div>`;
       return `<div class="s cover"><div class="ph" style="background-image:url('${img(data.cover_image)}')"></div><div class="fade"></div>
         <div class="txt">${tag}<h1>${esc(s.title)}</h1><p>${esc(s.sub || '')}</p><div class="swipe">Swipe →</div></div>${foot}</div>`;
     case 'stake':
       return `<div class="s stake">${tag}<h1>${esc(s.title)}</h1><p>${esc(s.body)}</p>${foot}</div>`;
     case 'diagram':
       return `<div class="s diag">${tag}<h1>${esc(s.title)}</h1><div class="card"><img src="${img(s.image)}"></div>${foot}</div>`;
+    case 'table':
+      return `<div class="s">${tag}<h1>${esc(s.title)}</h1><table><tr>${s.head.map(h => `<th>${esc(h)}</th>`).join('')}</tr>${
+        s.rows.map(r => `<tr>${r.map(c => `<td>${esc(c)}</td>`).join('')}</tr>`).join('')}</table>${s.note ? `<div class="note">${esc(s.note)}</div>` : ''}${foot}</div>`;
     case 'recap':
       return `<div class="s">${tag}<h1>${esc(s.title)}</h1><ol>${s.items.map(x => `<li>${esc(x)}</li>`).join('')}</ol>${foot}</div>`;
     case 'cta':

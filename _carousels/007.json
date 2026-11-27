@@ -1,0 +1,61 @@
+{
+  "post": 7,
+  "group": 1,
+  "day_label": "Underground",
+  "cover_image": null,
+  "cover_alt": null,
+  "slides": [
+    {
+      "type": "cover",
+      "title": "The 40% rule for ducts",
+      "sub": "Fill ratio and jam ratio, worked through"
+    },
+    {
+      "type": "stake",
+      "title": "Too full and the pull jams. Too big and you overpaid.",
+      "body": "Five minutes of arithmetic avoids both."
+    },
+    {
+      "type": "idea",
+      "title": "Fill ratio, defined",
+      "body": "Total cable cross-section area divided by the duct's inside area. Planning limit for three or more cables: 40%."
+    },
+    {
+      "type": "idea",
+      "title": "Where 40% comes from",
+      "body": "NEC Chapter 9 allows 53% for one cable, 31% for two, 40% for three or more. Telecom borrowed the rule."
+    },
+    {
+      "type": "idea",
+      "title": "Use the real bore",
+      "body": "Take the inside diameter from the data sheet. A two-inch duct does not have a two-inch bore."
+    },
+    {
+      "type": "idea",
+      "title": "Watch the jam ratio",
+      "body": "Duct inside diameter divided by cable diameter. Between 2.8 and 3.2, three cables can wedge side by side in a bend."
+    },
+    {
+      "type": "idea",
+      "title": "Low fill, still jammed",
+      "body": "Three 0.5 inch cables in a 1.5 inch bore: ratio 3.0, fill only 33%. Squarely in the jam zone."
+    },
+    {
+      "type": "recap",
+      "title": "Size a duct in 5 steps",
+      "items": [
+        "List cables, including future ones",
+        "Add up the cable areas",
+        "Divide by the real inside area",
+        "Over 40%? Go up a size",
+        "Three cables? Check the jam ratio"
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Save this for your next duct calculation",
+      "body": "Full article: link in bio"
+    }
+  ],
+  "caption": "A duct can be only 33% full and still jam solid. The fill ratio is only half the check.\n\nThe other half is the jam ratio: three similar cables can wedge side by side in a bend when the duct is about three times their diameter. Swipe for both calculations and a worked example.\n\nDay 7 of 100 Days of Fiber. Full article: link in bio.\n\nSave this for your next duct calculation.\n\n#fiberoptics #outsideplant #underground"
+}

@@ -1,0 +1,60 @@
+{
+  "post": 2,
+  "group": 1,
+  "day_label": "Underground",
+  "cover_image": "assets/images/posts/002-handhole-vs-manhole-vs-vault-in-a-fiber--photo.jpg",
+  "cover_alt": null,
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Handhole, manhole or vault?",
+      "sub": "Same fiber network, three very different structures"
+    },
+    {
+      "type": "stake",
+      "title": "The name decides the cost and the safety rules.",
+      "body": "Whether a person climbs inside changes everything about the job."
+    },
+    {
+      "type": "idea",
+      "title": "Handhole: work from above",
+      "body": "A shallow box, up to about 36 inches deep. Nobody enters. Splices, slack, drops and pull points. The cheapest option."
+    },
+    {
+      "type": "idea",
+      "title": "Manhole: a person goes in",
+      "body": "An underground room with a ladder, where duct banks meet. In the US it is an OSHA permit-required confined space."
+    },
+    {
+      "type": "idea",
+      "title": "The real cost of a manhole",
+      "body": "Gas testing, forced ventilation, an attendant at the surface and a rescue plan, all before anyone climbs down."
+    },
+    {
+      "type": "idea",
+      "title": "Vault: room for equipment",
+      "body": "Larger chambers for splitters or building entrances. Common where above-ground cabinets are not allowed."
+    },
+    {
+      "type": "diagram",
+      "title": "Inside a precast vault",
+      "image": "assets/images/posts/002-handhole-vs-manhole-vs-vault-in-a-fiber--diagram.jpg"
+    },
+    {
+      "type": "recap",
+      "title": "Use the smallest that works",
+      "items": [
+        "Handholes everywhere by default",
+        "Manholes where duct banks meet",
+        "Vaults only for underground equipment",
+        "India says chamber, Australia says pit"
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Save this before your next route design",
+      "body": "Full article: link in bio"
+    }
+  ],
+  "caption": "Handhole, manhole and vault get used like they mean the same thing. They don't.\n\nA handhole is worked from the surface. A manhole is a room a person climbs into, with confined-space rules attached. A vault holds equipment. Swipe for where each one belongs.\n\nDay 2 of 100 Days of Fiber. Full article: link in bio.\n\nSave this before your next route design.\n\n#fiberoptics #outsideplant #underground"
+}
